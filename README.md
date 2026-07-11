@@ -4,7 +4,7 @@
 ## 1. Portfolio Sitemap
 Home → About → Projects → Skills → Achievements → Contact
 
-![Sitemap](siteamap.jpg)
+![Siteamap](siteamap.jpg)
 
 **External Links:** GitHub, LinkedIn, Resume
 
