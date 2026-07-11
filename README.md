@@ -23,7 +23,7 @@ Backend AI Engineering internship.
 ## 4. Output
 ![Output](pressure-test-output.jpeg)
 
-## My Decision
+
 ## My Decision
 I will keep my current portfolio structure because it matches my existing 
 website and provides clear navigation. I plan to integrate technical skills 
