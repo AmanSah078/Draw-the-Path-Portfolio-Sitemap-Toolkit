@@ -4,7 +4,7 @@
 ## 1. Portfolio Sitemap
 Home → About → Projects → Skills → Achievements → Contact
 
-![Siteamap](siteamap.jpg)
+![Siteamap](siteamap.jpeg)
 
 **External Links:** GitHub, LinkedIn, Resume
 
@@ -12,16 +12,16 @@ Home → About → Projects → Skills → Achievements → Contact
 Created a dedicated Claude Project ("Backend AI Engineering Workspace") 
 with custom instructions describing my goals and background.
 
-![Claude Project](claude-project-setup.png)
+![Claude Project](claude-project-setup.jpeg)
 
 ## 3. Pressure-Test Prompt
 Asked Claude to review my sitemap as a hiring manager for a 
 Backend AI Engineering internship.
 
-![Prompt](pressure-test-prompt.png)
+![Prompt](pressure-test-prompt.jpeg)
 
 ## 4. Output
-![Output](pressure-test-output.png)
+![Output](pressure-test-output.jpeg)
 
 ## My Decision
 I'm keeping the 6-page structure for now since it matches my existing 
