@@ -1,4 +1,4 @@
-# Draw-the-Path-Portfolio-Sitemap-Toolkit
+
 # FlyRank Week 1 — Draw the Path: Portfolio Sitemap + Toolkit
 
 ## 1. Portfolio Sitemap
