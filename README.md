@@ -24,8 +24,10 @@ Backend AI Engineering internship.
 ![Output](pressure-test-output.jpeg)
 
 ## My Decision
-I'm keeping the 6-page structure for now since it matches my existing 
-portfolio, but I plan to integrate technical skills within project 
-descriptions in future updates to make the portfolio more recruiter-focused. 
-I'm keeping Achievements as its own page for now since I have enough 
-entries to justify it — will revisit after adding more projects.
+## My Decision
+I will keep my current portfolio structure because it matches my existing 
+website and provides clear navigation. I plan to integrate technical skills 
+into individual project descriptions over time, as recommended. I am keeping 
+the Achievements page because it already showcases my certifications and 
+accomplishments, making them easy for recruiters to find. I will continue 
+improving the portfolio as I build more real-world projects.
